@@ -1,0 +1,63 @@
+<mjml>
+  <mj-body background-color="#ecf0f1">
+    <mj-section background-color="#fff" padding="30px 0 0 0">
+      <mj-column>
+        <mj-text font-size="30px" text-transform="capitalize">
+          attempts to resolve the issue
+        </mj-text>
+        <mj-divider align="left" width="100%" border-width="3px" border-color="#011a8e" />
+      </mj-column>
+      <mj-column>
+        <mj-image align="right" width="40px" src="https://i.ibb.co/239tdtH/1678093221272-5daab5a98bfff67898127df6-dark-logo-transparent-2x.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/kSBxDcx/1678092088232-Asset-1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0 0 0 0">
+      <mj-column>
+        <mj-text font-size="14px" line-height="18px">
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniamm quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut alliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla faclisis at vero eros et accumsan et iusto odio dignissim qui blandit praseent luptatum zzril delenit augue duis dolore te feugait nulla facilisis. Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.
+        </mj-text>
+        <mj-button padding="30px 0 20px 0" href="#" width="50%" inner-padding="10px 15px" background-color="#011a8e">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" width="30%">
+        <mj-image href="#" width="150px" align="left" src="https://i.ibb.co/8x1wsjQ/1678092790327-Asset-3.png"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text align="left" font-size="20px" font-weight="600">Scarlett john</mj-text>
+        <mj-text font-size="14px">Financial Lawyer | <strong>Law Office of Peter Chase</strong></mj-text>
+        <mj-text>
+          <ul style="display:flex; list-style:none; margin:0; padding:0;">
+            <li style="margin-right:15px"><a href="#"><img width="30px" src="https://i.ibb.co/z8yPmGv/instagram.png" /></a></li>
+            <li style="margin-right:15px"><a href="#"><img width="30px" src="https://i.ibb.co/KjsbLQZ/facebook.png" /></a></li>
+            <li style="margin-right:15px"><a href="#"><img width="30px" src="https://i.ibb.co/tctw67W/linkedin.png" /></a></li>
+            <li><a href="#"><img width="30px" src="https://i.ibb.co/p3N3CFP/x.png" /></a></li>
+          </ul>
+        </mj-text>
+        <mj-text font-size="12px"> +123 456 7890 | unlayer@gmail.com</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-divider border-color="#bbb"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-text align="center" padding="20px 30px" font-size="13px" line-height="18px" font-weight="200">
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, <br />sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br />erat volutpat. Ut wisi enim ad minim veniamm quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut alliquip ex ea commodo consequat.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" width="185px" src="https://i.ibb.co/G3fQtyJ/made-logo.png" alt="" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
